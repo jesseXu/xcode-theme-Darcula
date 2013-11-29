@@ -1,2 +1,2 @@
 enjoy!
-![]("https://raw.github.com/jesseXu/xcode-theme-Darcula/master/shot.png?raw=true")
+![]("https://github.com/jesseXu/xcode-theme-Darcula/blob/master/shot.png?raw=true")
